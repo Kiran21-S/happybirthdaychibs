@@ -28,6 +28,7 @@ body{
     align-items: center;
     flex-direction: column;
     margin-top: -10%;
+    margin-left: 1%;
 }
 #p1{
     font-size: 25px;
@@ -61,4 +62,5 @@ body{
     align-items: center; 
     color: rgba(255, 255, 0, 0.827);
     text-align: center;
+    margin-left: 1%;
 }
