@@ -3,7 +3,7 @@
     margin: 0;
     scroll-snap-type: y mandatory ;
     scrollbar-width:thin;
-    overflow-x: hidden;
+/*     overflow-x: hidden; */
 }
 body{
     font-family: fantasy;
